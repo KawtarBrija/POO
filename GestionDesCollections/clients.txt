@@ -1,0 +1,2 @@
+Commande {Code du client = 1Telephone du client = 0600000000, Nom du client = 'null', Adresse de client = Casablanca}
+Commande {Code du client = 2Telephone du client = 0700000000, Nom du client = 'null', Adresse de client = Marrakech}
